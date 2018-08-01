@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "normalize.css": "^8.0.0"
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0",
+    "slick-carousel": "^1.8.1"
   }
 }
